@@ -1,6 +1,6 @@
-/darknet/data/etc/L_15485.jpg
-/darknet/data/etc/L_15443.jpg
-/darknet/data/etc/000002.jpg
-/darknet/data/etc/000024.jpg
-/darknet/data/etc/R.jpg
-/darknet/data/etc/R_15485.jpg
+/content/darknet/data/etc/L_15485.jpg
+/content/darknet/data/etc/L_15443.jpg
+/content/darknet/data/etc/000002.jpg
+/content/darknet/data/etc/000024.jpg
+/content/darknet/data/etc/R.jpg
+/content/darknet/data/etc/R_15485.jpg
