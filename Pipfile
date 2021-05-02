@@ -1,0 +1,33 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pydantic = "*"
+black = "*"
+flake8 = "*"
+coverage = "*"
+py360convert = "*"
+pyyaml = "*"
+progress = "*"
+pandas = "*"
+openpyxl = "*"
+h5py = "*"
+tensorflow = "==2.5.0rc0"
+image = "*"
+pillow = "*"
+opencv-contrib-python = "==4.4.0.46"
+matplotlib = "*"
+keras = "==2.3.0"
+icrawler = "*"
+labelimg = "*"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
