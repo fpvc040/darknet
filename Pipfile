@@ -25,6 +25,7 @@ matplotlib = "*"
 keras = "==2.3.0"
 icrawler = "*"
 labelimg = "*"
+dos2unix = "*"
 
 [requires]
 python_version = "3.9"
