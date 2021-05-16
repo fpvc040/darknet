@@ -10,7 +10,7 @@ parser.add_argument("--path", help = "Path to dataset", type = str, dest = 'path
 args = parser.parse_args()	
 
 current_dir = args.path
-g_colab_full_path='/cotent/darknet/data/' + args.keyword
+g_colab_full_path='/content/darknet/data/' + args.keyword
 
 # Percentage of images to be used for the test set
 percentage_test = 10;

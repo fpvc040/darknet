@@ -1,7 +1,7 @@
-/cotent/darknet/data/oscilloscope/000010.jpg
-/cotent/darknet/data/oscilloscope/000021.jpg
-/cotent/darknet/data/oscilloscope/000042.jpg
-/cotent/darknet/data/oscilloscope/000053.jpg
-/cotent/darknet/data/oscilloscope/000035.jpg
-/cotent/darknet/data/oscilloscope/000067.jpg
-/cotent/darknet/data/oscilloscope/000078.jpg
+/content/darknet/data/oscilloscope/000010.jpg
+/content/darknet/data/oscilloscope/000021.jpg
+/content/darknet/data/oscilloscope/000042.jpg
+/content/darknet/data/oscilloscope/000053.jpg
+/content/darknet/data/oscilloscope/000035.jpg
+/content/darknet/data/oscilloscope/000067.jpg
+/content/darknet/data/oscilloscope/000078.jpg
