@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/oscilloscope-train.txt
+valid  = cfg/oscilloscope-test.txt
+names = data/oscilloscope.names
+backup = backup
