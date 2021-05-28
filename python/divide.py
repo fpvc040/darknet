@@ -13,7 +13,7 @@ current_dir = args.path
 g_colab_full_path='/content/darknet/data/' + args.keyword
 
 # Percentage of images to be used for the test set
-percentage_test = 30;
+percentage_test = 20;
 
 # Create and/or truncate train.txt and test.txt
 file_train = open(args.keyword + '-train.txt', 'w')  
@@ -27,4 +27,12 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):
         file_test.write(g_colab_full_path + "/" + title + '.jpg' + "\n")
     else:
         file_train.write(g_colab_full_path + "/" + title + '.jpg' + "\n")
+        counter = counter + 1
+for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.JPG")):  
+    title, ext = os.path.splitext(os.path.basename(pathAndFilename))
+    if counter % index_test == 0:
+        counter = 1
+        file_test.write(g_colab_full_path + "/" + title + '.JPG' + "\n")
+    else:
+        file_train.write(g_colab_full_path + "/" + title + '.JPG' + "\n")
         counter = counter + 1
