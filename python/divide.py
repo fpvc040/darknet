@@ -36,3 +36,19 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.PNG")):
     else:
         file_train.write(g_colab_full_path + "/" + title + '.PNG' + "\n")
         counter = counter + 1
+for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):  
+    title, ext = os.path.splitext(os.path.basename(pathAndFilename))
+    if counter == index_test:
+        counter = 1
+        file_test.write(g_colab_full_path + "/" + title + '.jpg' + "\n")
+    else:
+        file_train.write(g_colab_full_path + "/" + title + '.jpg' + "\n")
+        counter = counter + 1
+for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.JPG")):  
+    title, ext = os.path.splitext(os.path.basename(pathAndFilename))
+    if counter == index_test:
+        counter = 1
+        file_test.write(g_colab_full_path + "/" + title + '.JPG' + "\n")
+    else:
+        file_train.write(g_colab_full_path + "/" + title + '.JPG' + "\n")
+        counter = counter + 1
