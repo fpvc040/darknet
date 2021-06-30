@@ -852,5 +852,4 @@
 /content/darknet/data/electrical_meter/000020_iCrawler.jpg
 /content/darknet/data/electrical_meter/000032_iCrawler.jpg
 /content/darknet/data/electrical_meter/000085_iCrawler.jpg
-/content/darknet/data/electrical_meter/SDGE-6_Web_iCrawler.jpg
 /content/darknet/data/electrical_meter/17_iCrawler.jpg
