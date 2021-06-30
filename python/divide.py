@@ -13,7 +13,7 @@ current_dir = args.path
 g_colab_full_path='/content/darknet/data/' + args.keyword
 
 # Percentage of images to be used for the test set
-percentage_test = 20;
+percentage_test = 0.0000000001;
 
 # Create and/or truncate train.txt and test.txt
 file_train = open(args.keyword + '-train.txt', 'w')  
