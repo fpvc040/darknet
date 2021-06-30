@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/etm-train.txt
+valid  = cfg/etm-test.txt
+names = data/electrical_meter.names
+backup = backup

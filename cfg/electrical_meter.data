@@ -1,5 +1,0 @@
-classes= 1
-train  = cfg/electrical_meter-train.txt
-valid  = cfg/electrical_meter-test.txt
-names = data/electrical_meter.names
-backup = backup
