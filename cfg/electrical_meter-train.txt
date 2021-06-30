@@ -846,7 +846,6 @@
 /content/darknet/data/electrical_meter/maxresdefault_iCrawler.jpg
 /content/darknet/data/electrical_meter/lesmeter_iCrawler.jpg
 /content/darknet/data/electrical_meter/vZs4Vm_iCrawler.jpg
-/content/darknet/data/electrical_meter/160d5rv1cim21_iCrawler.jpg
 /content/darknet/data/electrical_meter/ElectricMeter2_iCrawler.jpg
 /content/darknet/data/electrical_meter/000051_iCrawler.jpg
 /content/darknet/data/electrical_meter/000020_iCrawler.jpg
