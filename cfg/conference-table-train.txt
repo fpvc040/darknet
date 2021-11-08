@@ -206,7 +206,6 @@
 /content/darknet/data/conference_table_yolo/005070.jpg
 /content/darknet/data/conference_table_yolo/005071.jpg
 /content/darknet/data/conference_table_yolo/005072.jpg
-/content/darknet/data/conference_table_yolo/005042.jpg
 /content/darknet/data/conference_table_yolo/005043.jpg
 /content/darknet/data/conference_table_yolo/005044.jpg
 /content/darknet/data/conference_table_yolo/005046.jpg
