@@ -1,5 +1,5 @@
 classes= 1
-train  = cfg/etc-train.txt
-valid  = cfg/etc-test.txt
-names = data/etc.names
+train  = cfg/conference-table-train.txt
+valid  = cfg/conference-table-test.txt
+names = data/conference-table.names
 backup = backup

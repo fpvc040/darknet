@@ -1,0 +1,26 @@
+<annotation>
+	<folder>conference_table</folder>
+	<filename>000029.png</filename>
+	<path>/media/taru0904/8C3AC36A3AC3503E/Desktop_dump/visual-search/darknet/iCrawler_scripts/conference_table/000029.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>conference_table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>107</ymin>
+			<xmax>432</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>
